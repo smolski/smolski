@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 [Leitos - dashboard](https://smolski.github.io/LeitosCovidRS/#leitos-por-10000-hab-regi%C3%B5es-de-sa%C3%BAde)
+
+[Siconnfi - dashboard](smolski.shinyapps.io/Siconfi-RS)
+
+[RPPS - dashboard](https://smolski.shinyapps.io/rpps)
