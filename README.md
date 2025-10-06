@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img right="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smolski&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-[Leitos - dashboard](https://smolski.github.io/LeitosCovidRS/#leitos-por-10000-hab-regi%C3%B5es-de-sa%C3%BAde)
+[Leitos - dashboard](https://smolski.github.io/LeitosCovidRS/)
 
 [Siconnfi - dashboard](smolski.shinyapps.io/Siconfi-RS)
 
